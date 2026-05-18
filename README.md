@@ -2,7 +2,7 @@
 
 Privacy Policy
 
-Effective Date: February 3, 2026
+Last Updated: February 3, 2026
 
 Project Dead Channel LLC ("we," "us," or "our") operates the MatchStop mobile application (the "App"). This Privacy Policy explains how we handle information when you use our App.
 
